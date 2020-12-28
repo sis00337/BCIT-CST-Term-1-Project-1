@@ -1,0 +1,150 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #78bbeb;
+}
+#icon {
+    float: left;
+    border-radius: 50%;
+    margin: 10px;
+}
+#dropdownicon {
+    float: right;
+    margin: 18px 50px 0;
+}
+header > p {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    float: left;
+    margin-top: 32px;
+}
+#dropdown {
+    text-align: center;
+    border: 2px solid #78bbeb;
+    border-radius: 4px;
+    background-color: #e6f4ff;
+    float: right;
+    height: 200px;
+    width: 10vw;
+    list-style-type: none;
+    padding: 1em 0 0 0;
+}
+#dropheader {
+    color: #1777c2;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: underline;
+    margin: 0 0 1em;
+}
+li {
+    margin: 0.5em 0;
+}
+#main {
+    text-align: center;
+    border: 2px solid #78bbeb;
+    border-radius: 4px;
+    float: left;
+    margin: 1em;
+    height: 550px;
+    width: 80vw;
+    padding: 1em;
+}
+button {
+    border-radius: 6px;
+    width: 180px;
+    height: 60px;
+}
+.blue {
+    border: 2px solid #78bbeb;
+    background-color: #e6f4ff;
+}
+.darkblue {
+    border: 2px solid #297cb8;
+    background-color: #61b4f3;
+}
+.yellow {
+    border: 2px solid #ffad7a;
+    background-color: #fff0e3;
+}
+.green {
+    border: 2px solid #73d1c5;
+    background-color: #e6fffc;
+}
+.darkgreen {
+    border: 2px solid #178173;
+    background-color: #35dbc8;
+}
+.pink {
+    border: 2px solid #ff4d77;
+    background-color: #ffe6f7;
+}
+.darkpink {
+    border: 2px solid #9c0d2f;
+    background-color: #ec65c1;
+}
+.grey {
+    color: grey;
+    border: 2px solid grey;
+    background-color: lightgray;
+}
+.invisible {
+    color: white;
+    border: 2px solid white;
+    background-color: white;
+}
+.cf::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+h3 {
+    color: #ff4d77;
+    margin: 0;
+    float: left;
+}
+.card {
+    margin: 5px;
+}
+.next {
+    color: grey;
+    border: 2px solid grey;
+    background-color: lightgray;
+    float: right;
+    margin-top: 290px;
+}
+.home {
+    border: 2px solid #ff4d77;
+    background-color: #ffe6f7;
+    float: right;
+    margin-top: 290px;
+}
+
+h2 {
+    color: #1777c2;
+}
+.red {
+    color: red;
+    font-weight: bolder;
+}
+.textgreen {
+    color: rgb(11, 177, 20);
+    font-weight: bolder;
+}
+
+img.modPics {
+    width: 190px;
+    height: 190px;
+}
+
+section {
+
+    width: 210px;
+    float: left;
+}
+
+#hiragana {
+    margin-left: 100px;
+}
